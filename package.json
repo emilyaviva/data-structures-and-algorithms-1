@@ -11,13 +11,13 @@
     "gulp-mocha": "^2.1.2"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emilyaviva/data-structures-and-algorithms-1.git"
   },
-  "author": "",
+  "author": "Emily Aviva Kapor-Mater",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emilyaviva/data-structures-and-algorithms-1/issues"
